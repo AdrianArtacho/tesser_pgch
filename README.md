@@ -2,21 +2,20 @@ This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtac
 
 ![TTESS:Logo](https://bitbucket.org/AdrianArtacho/tesserakt/raw/HEAD/TESSER_logo.png)
 
-# Tesser_PgCh #
+# Tesser_PgCh
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+![TESS:PgCh](https://docs.google.com/drawings/d/e/2PACX-1vRrvf5HfIN6nc77tUlsGdqFmQYgAdzS9j0W3qtWBlbNsRJVTecUuGAuCUnaxqBidYo7--m1gPD1fMG6/pub?w=272&h=177)
+
+### What is this repository for?
 
 * Quick summary
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+___
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+# To-Do
+
+* Documentation
