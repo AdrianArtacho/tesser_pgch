@@ -18,4 +18,6 @@ ___
 
 # To-Do
 
-* Documentation
+* change Molekular programs from tablet
+* button to turn on inscore from the patch
+* 
