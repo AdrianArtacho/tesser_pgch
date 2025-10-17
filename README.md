@@ -6,7 +6,7 @@ This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtac
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
-![TESS:PgCh](https://docs.google.com/drawings/d/e/2PACX-1vRrvf5HfIN6nc77tUlsGdqFmQYgAdzS9j0W3qtWBlbNsRJVTecUuGAuCUnaxqBidYo7--m1gPD1fMG6/pub?w=272&h=177)
+![TESS:PgCh](img/gui.png)
 
 ### What is this repository for?
 
